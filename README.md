@@ -179,6 +179,9 @@ The higher recall is particularly useful for identifying a larger proportion of 
 
 ---
 
+## Google Colab Link
+https://colab.research.google.com/drive/1SC-9-T0bwzPUOCe_zyk0YeASNgvDE6tI?usp=sharing
+
 ## Confusion Matrix
 
 The final Logistic Regression model produced the following confusion matrix on the 200-sample test set:
@@ -187,5 +190,8 @@ The final Logistic Regression model produced the following confusion matrix on t
 [[102  38]
  [ 12  48]]
 
+
 ## Google Colab Link
 https://colab.research.google.com/drive/1SC-9-T0bwzPUOCe_zyk0YeASNgvDE6tI?usp=sharing
+
+
