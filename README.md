@@ -191,7 +191,4 @@ The final Logistic Regression model produced the following confusion matrix on t
  [ 12  48]]
 
 
-## Google Colab Link
-https://colab.research.google.com/drive/1SC-9-T0bwzPUOCe_zyk0YeASNgvDE6tI?usp=sharing
-
 
